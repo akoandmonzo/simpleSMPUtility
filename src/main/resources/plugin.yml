@@ -1,0 +1,4 @@
+name: simpleSMPUtility
+version: '1'
+main: me.ako.simpleSMPUtility.SimpleSMPUtility
+api-version: '1.21'
